@@ -1,0 +1,17 @@
+{
+    "name": "doria/composerproject",
+    "description": "wild compos",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dorian Dequirez",
+            "email": "doriandeuk@hotmail.fr"
+        }
+    ],
+    "require": {}
+}
